@@ -97,7 +97,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.12.2)
-    concurrent-ruby (1.1.4)
+    concurrent-ruby (1.1.5)
     crass (1.0.4)
     csso-rails (0.8.1)
       execjs (>= 1)
@@ -165,7 +165,7 @@ GEM
     high_voltage (3.1.0)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
-    i18n (1.5.1)
+    i18n (1.6.0)
       concurrent-ruby (~> 1.0)
     icalendar (2.5.2)
       ice_cube (~> 0.16)
@@ -338,7 +338,7 @@ GEM
     rspec-mocks (3.8.0)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.8.0)
-    rspec-rails (3.8.1)
+    rspec-rails (3.8.2)
       actionpack (>= 3.0)
       activesupport (>= 3.0)
       railties (>= 3.0)
